@@ -3,3 +3,5 @@ matplotlib
 notebook
 ipykernel
 scipy
+scikit-learn
+ipympl
