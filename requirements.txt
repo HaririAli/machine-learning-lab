@@ -5,3 +5,4 @@ ipykernel
 scipy
 scikit-learn
 ipympl
+tensorflow
